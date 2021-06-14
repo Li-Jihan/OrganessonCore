@@ -1,4 +1,4 @@
-# OrganessonXECore
+# OrganessonCore
 A core optimized for Mineccraft server.
 Excellent support and optimization for the high version of minecraft server, more optimization settings can be selected as a branch system based on Paper.
 #### Version suffix
@@ -8,7 +8,7 @@ Excellent support and optimization for the high version of minecraft server, mor
 | A| The initial build version only has basic optimization functions, which may be extremely unstable.  |
 |   B|   The beta version has a certain level, but it needs to be tested for stability.|
 |   E| The first version has been released with only general optimization settings, which is the best choice for a powerful server.  |
-|X|Uranium's high-efficiency version, powerful settings have an excellent experience for low-equipped servers, but complex settings require research.|
+|X|OrganessonCore's high-efficiency version, powerful settings have an excellent experience for low-equipped servers, but complex settings require research.|
 |Y|The upgraded beta version has the same settings as the X version, but new features are being added.|
 
 
