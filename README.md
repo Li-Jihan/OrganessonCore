@@ -1,4 +1,4 @@
-# UraniumXECore
+# OrganessonXECore
 A core optimized for Mineccraft server.
 Excellent support and optimization for the high version of minecraft server, more optimization settings can be selected as a branch system based on Paper.
 #### Version suffix
